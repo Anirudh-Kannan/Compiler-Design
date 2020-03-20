@@ -9,6 +9,8 @@ Compiler Design Lab Programs
     lex 9.l
     yacc 9.y
     cc y.tab.c - lfl
+    ./a.out
  ### 2. Execute program 10 using: 
     yacc 10.y
     cc y.tab.c - ll
+    ./a.out
