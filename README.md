@@ -2,7 +2,7 @@
 Compiler Design Lab Programs
 ### 1. Execute program 6,7 and 8 using: 
     lex prog.l  
-    yacc -d prog.l
+    yacc -d prog.y
     cc lex.yy.c y.tab.c -lfl
     ./a.out
 ### 2. Execute program 9 using: 
